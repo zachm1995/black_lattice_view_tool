@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{View specific methods}
   spec.description   = %q{Generates HTML dynamically}
-  spec.homepage      = "mumbeezy.com"
+  spec.homepage      = "http://www.mumbeezy.com"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
